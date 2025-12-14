@@ -271,4 +271,6 @@ All content is available here: https://www.youtube.com/@CopyrightandContentPlatf
 
 ### Timestamps
 
-All detection was either instantaneous or no detection at all. See timestamps above.
+All detection was either instantaneous or no detection at all. Timestamps:
+First two videos: Uploaded December 11th, 40 sec clip was detected immediately, 7 sec clip never detected.
+Rest of the videos. Uplaoded December 12th, non-ai clips detected immediately, ai clips never detected.
