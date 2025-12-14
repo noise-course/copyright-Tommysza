@@ -249,7 +249,21 @@ Overall, while YouTube’s system is effective at identifying copyrighted materi
 
 ### Screenshots
 
-Screenshot 1 through Screenshot 14, in order, embedded above.
+Screenshot 1 through Screenshot 14, in order, embedded below.
+![](Materials/Screenshot%201.png)
+![](Materials/Screenshot%202.png)
+![](Materials/Screenshot%203.png)
+![](Materials/Screenshot%204.png)
+![](Materials/Screenshot%205.png)
+![](Materials/Screenshot%206.png)
+![](Materials/Screenshot%207.png)
+![](Materials/Screenshot%208.png)
+![](Materials/Screenshot%209.png)
+![](Materials/Screenshot%2010.png)
+![](Materials/Screenshot%2011.png)
+![](Materials/Screenshot%2012.png)
+![](Materials/Screenshot%2013.png)
+![](Materials/Screenshot%2014.png)
 
 ### Links
 
